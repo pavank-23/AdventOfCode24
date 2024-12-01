@@ -6,7 +6,7 @@ import java.util.Collections;
 
 import static java.lang.Math.abs;
 
-public class Day1 {
+public class Day1_Part1 {
     public static void main(String[] args) {
         String filePath = "C:\\Users\\Pavan\\IdeaProjects\\AdventOfCode24\\src\\in.txt";
         String content = "";
